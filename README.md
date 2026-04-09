@@ -18,7 +18,6 @@ This analysis focused on exploring root causes of delays and where to address im
 - Visual Studio Code
 - Tableau
 - gitHub
-- Claude
 
 ## The Analysis
 
